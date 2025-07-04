@@ -6,16 +6,50 @@ This repository is your central hub for learning resources, assignments, session
 
 ---
 
-## 🚀 What to Expect
+## 🎯 Purpose of the Program
 
-Throughout this program, you'll get:
-- Live and recorded **training sessions**
-- Hands-on **exercises and assignments**
-- Exposure to **real-world use cases**
-- Guidance on building solutions using **Microsoft 365 + Power Platform**
-- A chance to connect with peers and mentors in the M365 ecosystem
+The Microsoft 365 Mentorship Program is designed to address a common challenge faced by many learners: **"Where do I start, and how do I connect it all?"**
+
+This program aims to:
+
+- 🧭 **Address the Gap in Structured M365 Learning**  
+  Most tutorials focus on isolated tools — this program gives you a guided roadmap and holistic understanding of the M365 ecosystem.
+
+- ❓ **Help You Understand 'What to Learn' and 'Why'**  
+  Not just technical demos, but real reasoning behind choosing the right tool or platform for the right use case.
+
+- 🧩 **Build Confidence in Connecting the Dots Between Platforms**  
+  Learn how SharePoint, Power Platform, Outlook, Teams, and OneDrive can work together to deliver end-to-end business solutions.
+
+- 🚀 **Encourage Self-Driven, Real-World Learning**  
+  Through hands-on exercises, project-based thinking, and community interaction, you'll gain practical, applicable skills.
+
+- 🤝 **Promote Community, Collaboration, and Long-Term Growth**  
+  This is not a one-time course. It’s a journey where you’ll learn from mentors, peers, and real-world scenarios — and grow into a confident M365 professional.
+
+Whether you're aiming to become a **Microsoft 365 Developer**, **Consultant**, or **Administrator**, this program is your launchpad.
 
 ---
+
+## ✅ Prerequisites
+
+Before you begin participating in the sessions and exercises, please make sure you have access to the following:
+
+### 🧩 Microsoft 365 Tenant Account
+
+- You will need access to your own **Microsoft 365 tenant** to complete hands-on exercises.
+- A minimum of **Microsoft 365 Business Basic** license is required.
+- Ensure that your account has access to core apps like SharePoint, Teams, OneDrive, and Power Platform.
+
+### 💻 GitHub Account
+
+- A **GitHub account** is required to access learning materials, submit exercises, and participate in discussions.
+- Sign up at: https://github.com
+
+---
+
+> ⚠️ We do not provide tenant access as part of the program. You are expected to set it up independently in advance of the technical sessions.
+
 
 ## 🙋‍♀️ Have Questions or Want to Start a Conversation?
 
