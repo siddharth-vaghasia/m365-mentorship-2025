@@ -17,34 +17,41 @@ Throughout this program, you'll get:
 
 ---
 
-## 🙋‍♀️ Have Questions or Issues?
+## 🙋‍♀️ Have Questions or Want to Start a Conversation?
 
-If you have any questions, doubts, or run into any issues — **don’t hesitate to open an issue in this repository**.
+If you have any **questions, doubts, ideas, or want to start a discussion**, please use the **GitHub Discussions** feature. This helps us keep learning collaborative and transparent for all participants.
 
-Here’s how you can do it:
+### 📌 How to Ask a Question via Discussions
 
-### 📌 How to Create a New Issue
+1. Go to the **[Discussions](../../discussions)** tab of this repository.
+2. Click the **"New Discussion"** button.
+3. Choose a category (e.g., **Q&A**, **General**, **Ideas**, etc.)
+4. Add a **clear and descriptive title**.
+5. In the content box:
+   - Describe your question or topic in detail.
+   - Mention any relevant background, error messages, or screenshots.
+6. Click **Start Discussion**.
 
-1. Go to the **[Issues](../../issues)** tab of this repository.
-2. Click the green **"New Issue"** button.
-3. Choose a template (if available) or start with a blank issue.
-4. Give your issue a **clear title**.
-5. In the description:
-   - Describe your **question** or **problem** in detail.
-   - Add any **screenshots** or **error messages** (if applicable).
-6. Click **Submit new issue**.
+Once posted, mentors or fellow participants will engage with you and help out.
 
-Once submitted, a mentor or a community member will respond and assist you as soon as possible.
+### ✅ When to Use Discussions
+
+- To ask questions related to the sessions
+- To share your learning or insights
+- To suggest ideas or improvements
+- To troubleshoot any problems you're facing
+
+> 💡 Tip: Before posting, check if someone has already asked a similar question. You might find your answer faster!
 
 ---
 
 ## 💬 Stay Connected
 
-- Use the issue board for all **technical questions, feedback, or suggestions**.
-- Follow session announcements and updates in the **Discussions** tab (if enabled).
-- Share your learnings and support fellow participants.
+- Use **Discussions** for all questions, ideas, and peer learning.
+- Watch the repo for announcements and resource updates.
+- Support and interact with fellow participants — collaboration is key!
 
----
+
 
 ## 🧠 Let’s Learn and Grow Together
 
