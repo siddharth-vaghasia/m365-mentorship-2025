@@ -85,6 +85,22 @@ Once posted, mentors or fellow participants will engage with you and help out.
 - Watch the repo for announcements and resource updates.
 - Support and interact with fellow participants — collaboration is key!
 
+## 👨‍🏫 Mentorship Program Team
+
+This program is led and supported by experienced professionals passionate about helping others grow in the Microsoft 365 ecosystem.
+
+### 👥 Mentors
+
+- **Siddharth Vaghasia** – Microsoft 365 Architect | MVP | Power Platform Consultant | Founder
+- **Kunj Sangani** –  M365 Technical Consultant
+
+### 🙌 Other Volunteers
+
+We’re also supported by a growing group of **community volunteers** who help with content, discussions, and peer learning throughout the program.
+
+We’re here to guide you, answer your questions, and support your learning journey throughout the program.
+
+> Feel free to tag us in GitHub Discussions for support or reach out during live sessions.
 
 
 ## 🧠 Let’s Learn and Grow Together
@@ -94,3 +110,4 @@ We’re excited to have you on this journey. Whether you're just starting or loo
 Welcome aboard, and happy learning! 🎓🌐
 
 — The Mentorship Team
+
