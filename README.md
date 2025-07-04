@@ -102,6 +102,9 @@ We’re here to guide you, answer your questions, and support your learning jour
 
 > Feel free to tag us in GitHub Discussions for support or reach out during live sessions.
 
+> 📌 **Note:** Only officially **selected participants** of the mentorship program will receive **Microsoft Teams session invites** and access to live discussions or guided support.
+
+> Please **do not share meeting links externally** to maintain the integrity and focus of the program.
 
 ## 🧠 Let’s Learn and Grow Together
 
